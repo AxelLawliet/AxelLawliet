@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Rai a.k.a. @AxelLawliet
 - 👀 I’m interested in building stuff that matters.
-- 🌱 I’m currently learning Machine Learning & Artificial Itellgence techniques
+- 🌱 I’m currently learning Machine Learning & Artificial Itelligence techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at -> ankitraijuly10@gmail.com
 - LinkedIn -> https://www.linkedin.com/in/ankit-rai-23a688137/
